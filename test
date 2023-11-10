@@ -1,0 +1,22 @@
+[
+    {"value": "Yamaha", "label": "Yamaha", "checked": false},
+    {"value": "Bajaj", "label": "Bajaj", "checked": false},
+    {"value": "BMW", "label": "BMW", "checked": false},
+    {"value": "Suzuki", "label": "Suzuki", "checked": false},
+    {"value": "TVS", "label": "TVS", "checked": false},
+    {"value": "KTM", "label": "KTM", "checked": false},
+    {"value": "Kawasaki", "label": "Kawasaki", "checked": false},
+    {"value": "Honda", "label": "Honda", "checked": false},
+    {"value": "Harley-Davidson", "label": "Harley-Davidson", "checked": false},
+    {"value": "Royal Enfield", "label": "Royal Enfield", "checked": false},
+    {"value": "Benelli", "label": "Benelli", "checked": false},
+    {"value": "QJ Motor", "label": "QJ Motor", "checked": false},
+    {"value": "Keeway", "label": "Keeway", "checked": false},
+    {"value": "Hero", "label": "Hero", "checked": false},
+    {"value": "Triumph", "label": "Triumph", "checked": false},
+    {"value": "Ducati", "label": "Ducati", "checked": false},
+    {"value": "Aprilia", "label": "Aprilia", "checked": false},
+    {"value": "CFMoto", "label": "CFMoto", "checked": false},
+    {"value": "Zontes", "label": "Zontes", "checked": false},
+    {"value": "Kymco", "label": "Kymco", "checked": false}
+]
